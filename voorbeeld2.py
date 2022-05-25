@@ -1,0 +1,5 @@
+a = int(input("geef a in"))
+b = int(input("geef b in"))
+c = int(input("geef c in"))
+d = int(input("geef d in"))
+print("het gemiddelde van {} {} {} {} is {}".format(a,b,c,d,(a+b+c+d)/4))
